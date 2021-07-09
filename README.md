@@ -8,3 +8,31 @@ This repository holds the project Food Products Sales Forecasting which includes
 * Data Visualization,
 * Forecasting for sales of food products and
 * User friendly frontend.
+
+**Steps followed**
+- Step 1: Data Preparation
+- Step 2: Data Visualization
+- Step 3: Forecasting
+- Step 4: Integrating visualization and forecasting into frontend
+
+
+
+**Libraries needed**
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn 
+- Fb Prophet
+
+
+**Conclusion**
+
+To view the project: 
+
+https://ayushi424.github.io/Food-Products-Sales-Forecasting/Frontend/index.html
+
+
+**Author** 
+
+[Ayushi Shrivastava](https://github.com/ayushi424)
